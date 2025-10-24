@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s01-intro",
+    "order": 1,
+    "title": "Biznex",
+    "type": "hero-heavy",
+    "headline": "The Business OS for Modern Companies",
+    "tagline": "Build, manage, and grow — all in one place.",
+    "copy": [
+      "We're building a connected operating system for company formation and management — designed for accountants, lawyers, coworking hubs, and modern entrepreneurs.",
+      "Already in development. Partner-ready soon."
+    ],
+    "hero": {
+      "mockup": "placeholder-hero-1",
+      "metrics": [],
+      "cta": { "text": "Join the Partner Waitlist", "href": "mailto:partners@biznex.co" }
+    },
+    "visualHints": ["heroMockup", "largeCTA"]
+  },
+  {
+    "id": "s03-purpose",
+    "order": 3,
+    "title": "Why We're Building This",
+    "tagline": "One platform. Every essential tool.",
+    "copy": [
+      "Starting and running a business shouldn't mean juggling 10 different platforms.",
+      "Biznex unifies formation, compliance, communication, and growth into one connected ecosystem."
+    ],
+    "visualHints": ["centeredText"]
+  },
+  {
+    "id": "s04-what-we-do",
+    "order": 4,
+    "title": "What Biznex Offers",
+    "tagline": "A complete business back-office in one platform.",
+    "copy": [
+      "A modular platform that covers the entire business lifecycle — from entity formation to daily operations.",
+      "Formation • Compliance • Corporate Mail • Banking • CRM • Docs • Accounting • and more."
+    ],
+    "visualHints": ["centeredText"]
+  },
+  {
+    "id": "s05-partners",
+    "order": 5,
+    "title": "For Partners",
+    "tagline": "Grow your services — without building software.",
+    "copy": [
+      "Biznex offers branded partner environments for accountants, lawyers, and coworking networks.",
+      "Partners provide the relationships — Biznex provides the platform.",
+      "No software to manage. Just plug in and start offering full-service business solutions."
+    ],
+    "visualHints": ["centeredText"]
+  },
+  {
+    "id": "s06-benefits",
+    "order": 6,
+    "title": "Partner Benefits",
+    "tagline": "Full control. Zero infrastructure.",
+    "copy": [
+      "✅ White-label with your brand",
+      "✅ Set your own pricing & choose features",
+      "✅ Serve clients nationwide — no location limits",
+      "✅ Earn recurring revenue per client"
+    ],
+    "visualHints": ["centeredText", "bulletList"]
+  },
+  {
+    "id": "s07-market",
+    "order": 7,
+    "title": "Market Landscape",
+    "tagline": "A massive, growing market — ready for transformation.",
+    "copy": [
+      "Over 5.4 million new businesses start yearly in the U.S. alone.",
+      "All need the same digital infrastructure — formation, compliance, banking, communication.",
+      "Biznex makes it simple, scalable, and partner-driven."
+    ],
+    "visualHints": ["centeredText"]
+  },
+  {
+    "id": "s08-roadmap",
+    "order": 8,
+    "title": "Product Roadmap",
+    "tagline": null,
+    "copy": [
+      "Phase 1: Formation, Compliance, Corporate Mail, CRM, Legal Docs, Accounting, Inventory...",
+      "Phase 2: Payroll, Banking, Equity",
+      "Phase 3: Global Expansion Modules"
+    ],
+    "note": "Some features have not been revealed. For more details, please contact us.",
+    "_cta": "View full roadmap",
+    "visualHints": ["phaseList"]
+  },
+  {
+    "id": "s09-get-involved",
+    "order": 9,
+    "title": "Join as an Early Partner",
+    "tagline": "Let's build the future of business together.",
+    "copy": [
+      "We're opening early access for selected partners who want to shape the future of business infrastructure.",
+      "Join our private waitlist and be first to launch under your own brand."
+    ],
+    "cta": "Join the Partner Waitlist",
+    "visualHints": ["ctaSlide"]
+  },
+  {
+    "id": "s10-footer",
+    "order": 10,
+    "title": "Stay Connected",
+    "tagline": null,
+    "copy": ["Biznex is currently onboarding early partners.", "Interested? Reach out or join the waitlist below."],
+    "contact": "partners@biznex.co",
+    "visualHints": ["contactSlide"]
+  }
+]

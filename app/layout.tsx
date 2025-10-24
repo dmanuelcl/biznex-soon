@@ -22,8 +22,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className={`font-sans antialiased bg-dot`}>
+    <html lang="en" className="dark">
+      <body className={`font-sans antialiased text-white`}>
         {children}
         <Analytics />
         <GoogleAnalytics gaId="G-TW7WM85R6M" />
